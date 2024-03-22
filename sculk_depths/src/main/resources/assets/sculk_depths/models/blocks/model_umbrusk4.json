@@ -1,0 +1,12 @@
+{
+    "parent": "cube",
+
+    "textures":
+    {
+        "all":
+        {
+            "fileName": "sculk_depths:umbrusk4.png"
+        }
+    }
+   
+}

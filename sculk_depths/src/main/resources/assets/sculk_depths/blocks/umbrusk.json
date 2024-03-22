@@ -1,0 +1,56 @@
+{
+    "stringId": "sculk_depths:umbrusk",
+    "blockStates":
+    {
+        "texture1":
+        {
+            "modelName": "sculk_depths:model_umbrusk1",
+            "generateSlabs":true
+        },
+		"texture1_mirrored":
+        {
+            "modelName": "sculk_depths:model_umbrusk1_mirrored",
+            "generateSlabs":true
+        },
+		"texture2":
+        {
+            "modelName": "sculk_depths:model_umbrusk2",
+            "generateSlabs":true
+        },
+		"texture2_mirrored":
+        {
+            "modelName": "sculk_depths:model_umbrusk2_mirrored",
+            "generateSlabs":true
+        },
+		"texture3":
+        {
+            "modelName": "sculk_depths:model_umbrusk3",
+            "generateSlabs":true
+        },
+		"texture3_mirrored":
+        {
+            "modelName": "sculk_depths:model_umbrusk3_mirrored",
+            "generateSlabs":true
+        },
+		"texture4":
+        {
+            "modelName": "sculk_depths:model_umbrusk4",
+            "generateSlabs":true
+        },
+		"texture4_mirrored":
+        {
+            "modelName": "sculk_depths:model_umbrusk4_mirrored",
+            "generateSlabs":true
+        },
+		"texture5":
+        {
+            "modelName": "sculk_depths:model_umbrusk5",
+            "generateSlabs":true
+        },
+        "texture5_mirrored":
+        {
+            "modelName": "sculk_depths:model_umbrusk5_mirrored",
+            "generateSlabs":true
+        }
+    }
+}

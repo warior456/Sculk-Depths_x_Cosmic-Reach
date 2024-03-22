@@ -1,0 +1,23 @@
+{
+   "parent":"base:block_events_default",
+   "stringId":"sculk_depths:events_umbrusk_place",
+   "triggers":
+   {
+       "onPlace":
+       [
+           {
+               "actionId": "base:replace_block_state",
+               "parameters":
+               {
+                    "xOff": 0,
+                    "yOff": 0,
+                    "zOff": 0,
+                    "params":
+                    {
+                        "umbrusk_events_place":"self"
+                    }
+				}
+           }
+       ]
+   }    
+} 
